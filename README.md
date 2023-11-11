@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @willianlsantos
+- 👋 Olá, eu sou o  @willianlsantos! 👋
+ 
+💼 Aprendendo tecnologias: JavaScript, React, ...
+
+📧 willianlsantos.developer@gmail.com
+
+ 
 
 <img src="">
 <p>:registered:</p>
