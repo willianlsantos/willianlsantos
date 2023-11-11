@@ -1,26 +1,15 @@
-- 👋 Olá, eu sou o  @willianlsantos! 👋
+  <p>👋 Olá, eu sou o  @willianlsantos:registered:</p> 
  
-💼 Aprendendo tecnologias: JavaScript, React, ...
+<p>:dart: Aprendendo diariamente tecnologias:💻 Html, Css, JavaScript, React, ...🚀</p>
 
 📧 willianlsantos.developer@gmail.com
-
- 
-
-<img src="">
-<p>:registered:</p>
-<p>:pencil:</p>
-<p>:trophy:</p>
-<p>:computer:</p>
-<p>:iphone:</p>
-<p>:email:</p>
-<p>:dart:</p>
-<p>:link:</p>
-<p>:rocket:</p>
-
-
-![willian santos](https://github-readme-stats.vercel.app/api?username=willianlsantos&show_icons=true&bg_color=DEG,FCFFEE,902EF2,5C0BEE)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianlsantos&layout=compact)
+💼 www.linkedin.com/in/willian-l-santos/
+<br>
+🔗https://www.instagram.com/williansantos.developer/
+
+
+![willian santos](https://github-readme-stats.vercel.app/api?username=willianlsantos&show_icons=true&bg_color=DEG,FCFFEE,902EF2,5C0BEE)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianlsantos&layout=compact)
 
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/willian-l-santos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
