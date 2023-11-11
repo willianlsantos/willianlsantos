@@ -1,6 +1,8 @@
-  <p>👋 Olá, eu sou o  @willianlsantos:registered:</p> 
+  <p>👋 Olá, eu sou o <b>Willian Santos</b>:registered: </p>
  
-<p>:dart: Aprendendo diariamente tecnologias:💻 Html, Css, JavaScript, React, ...🚀</p>
+<p>:dart:Focado em tecnologias Front End:💻 Html, Css, JavaScript, React, ...🚀</p>
+<p>:calendar:Proximo passo aprender Back End -> :mortar_board:Full Stark </p>
+<p></p>:book:Cursando DevClub aprendendo as principais tecnologias, para proporcionar uma melhor :heart:experiência ao usuario </p>
 
 📧 willianlsantos.developer@gmail.com
 <br>
