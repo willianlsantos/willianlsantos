@@ -1,8 +1,10 @@
-  <p>👋 Olá, eu sou o <b>Willian Santos</b>:registered: </p>
- 
-<p>:dart:Focado em tecnologias FrontEnd:💻 Html, Css, JavaScript, React, ...🚀</p>
-<p>:calendar:Proximo passo aprender BackEnd -> :mortar_board:FullStack</p>
-<p></p>:book:Cursando <a href="https://rodolfomori.com.br/devclub/" >DevClub</a> aprendendo as principais tecnologias, para proporcionar uma melhor :heart:experiência ao usuario </p>
+  <h1 align="center">👋 Olá, eu sou o <b>Willian Santos</b>:registered: </h1>
+  
+ <h4 align="center">:dart:Focado em tecnologias FrontEnd:💻 Html, Css, JavaScript, React, ...🚀</h4>
+<h4 align="center">:calendar:Proximo passo aprender BackEnd -> :mortar_board:FullStack</h4>
+<h4 align="center">:book:Cursando <a href="https://rodolfomori.com.br/devclub/" >DevClub</a> aprendendo as principais tecnologias, para proporcionar uma melhor :heart:experiência ao usuario </h4>
+
+
 
 📧 willianlsantos.developer@gmail.com
 <br>
